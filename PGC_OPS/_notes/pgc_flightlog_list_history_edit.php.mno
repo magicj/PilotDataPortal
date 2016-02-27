@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Flightlog" value="name:Key;datatype:int,name:Date;datatype:date,name:Glider;datatype:string,name:Flight_Type;datatype:string,name:Pilot1;datatype:string,name:Pilot2;datatype:string,name:Takeoff;datatype:time,name:Landing;datatype:time,name:Time;datatype:real,name:Tow Altitude;datatype:string,name:Tow Plane;datatype:string,name:Tow Pilot;datatype:string,name:Tow Charge;datatype:real,name:Notes;datatype:string,name:ip;datatype:string,name:email;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:LastPilot;datatype:string,name:TowPlane;datatype:string" />
+</info>

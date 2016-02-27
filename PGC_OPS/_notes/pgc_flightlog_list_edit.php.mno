@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsGliders" value="name:glider;datatype:string,name:nnumber;datatype:string" />
+	<infoitem key="UD_rsMembers" value="name:USER_ID;datatype:string,name:USER_PW;datatype:string,name:NAME;datatype:string,name:PGC_STATUS;datatype:string,name:ROLE;datatype:string,name:update_date;datatype:date,name:pw1;datatype:string,name:pw2;datatype:string,name:active;datatype:string,name:last_login_date;datatype:date,name:new_user_id1;datatype:string,name:new_user_id2;datatype:string,name:old_user_id;datatype:string" />
+	<infoitem key="UD_Flightlog" value="name:Key;datatype:int,name:Date;datatype:date,name:Glider;datatype:string,name:Flight_Type;datatype:string,name:Pilot1;datatype:string,name:Pilot2;datatype:string,name:Takeoff;datatype:time,name:Landing;datatype:time,name:Time;datatype:real,name:Tow Altitude;datatype:string,name:Tow Plane;datatype:string,name:Tow Pilot;datatype:string,name:Tow Charge;datatype:real,name:Notes;datatype:string,name:ip;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:LastPilot;datatype:string,name:TowPlane;datatype:string" />
+</info>

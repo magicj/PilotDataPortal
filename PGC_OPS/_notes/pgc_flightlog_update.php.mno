@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Flightlog" value="name:Key;datatype:int,name:Date;datatype:date,name:Glider;datatype:string,name:Flight_Type;datatype:string,name:Pilot1;datatype:string,name:Pilot2;datatype:string,name:Takeoff;datatype:time,name:Landing;datatype:time,name:Time;datatype:real,name:Tow Altitude;datatype:string,name:Tow Plane;datatype:string,name:Tow Pilot;datatype:string,name:Tow Charge;datatype:real,name:Notes;datatype:string,name:ip;datatype:string,name:email;datatype:string" />
+	<infoitem key="UD_rsMembers" value="name:USER_ID;datatype:string,name:NAME;datatype:string,name:PGC_STATUS;datatype:string" />
+	<infoitem key="UD_rsGliders" value="name:glider;datatype:string,name:nnumber;datatype:string" />
+	<infoitem key="UD_rsTowpilots" value="name:pilot_name;datatype:string" />
+	<infoitem key="UD_rs_instructors" value="name:instructorID;datatype:int,name:Name;datatype:string" />
+	<infoitem key="UD_rs_altitudes" value="name:altitude;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:LastPilot;datatype:string,name:TowPlane;datatype:string" />
+	<infoitem key="UD_rsSignoffs" value="name:signoffID;datatype:int,name:pilot_ID;datatype:int,name:pilot_name;datatype:string,name:signoff_type;datatype:string,name:signoff_date;datatype:date,name:instructor;datatype:string,name:expire_date;datatype:date,name:status;datatype:string,name:delete_record;datatype:string,name:modified_by;datatype:string,name:modified_date;datatype:datetime" />
+	<infoitem key="UD_rsMemberEmail" value="name:USER_ID;datatype:string,name:NAME;datatype:string" />
+</info>

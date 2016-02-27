@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:rating_id;datatype:int,name:pilot_name;datatype:string,name:pgc_rating;datatype:string,name:delete_record;datatype:string" />
+	<infoitem key="UD_Pilots" value="name:pilot_name;datatype:string" />
+	<infoitem key="UD_RatingList" value="name:rating_name;datatype:string" />
+	<infoitem key="UD_rsRatings" value="name:rating_name;datatype:string" />
+</info>

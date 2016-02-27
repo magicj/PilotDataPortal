@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset2" value="name:id;datatype:int,name:lname;datatype:string,name:fname;datatype:string,name:cid;datatype:string,name:club;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:id;datatype:int,name:glider;datatype:string,name:sid;datatype:int,name:pid;datatype:int,name:share;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:index;datatype:int,name:pilotid;datatype:int,name:gliderid;datatype:int,name:date;datatype:date,name:version;datatype:int,name:task;datatype:string,name:pirep;datatype:blob,name:fname;datatype:string,name:lname;datatype:string,name:glider;datatype:string" />
+</info>
