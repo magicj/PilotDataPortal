@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPgcPilots" value="name:pilot_ID;datatype:int,name:pilot_name;datatype:string,name:e_mail;datatype:string,name:pgc_member_type;datatype:string,name:pgc_rating;datatype:string,name:faa_cert;datatype:string" />
+	<infoitem key="UD_rsSignoffTypes" value="name:signoffID;datatype:int,name:description;datatype:string,name:target_group;datatype:string,name:target_group_id;datatype:int,name:active;datatype:string" />
+	<infoitem key="UD_rsInstructors" value="name:instructorID;datatype:int,name:Name;datatype:string" />
+</info>

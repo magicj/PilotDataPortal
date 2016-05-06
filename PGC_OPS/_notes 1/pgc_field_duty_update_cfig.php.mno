@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCFIG" value="name:instructorID;datatype:int,name:Name;datatype:string" />
+	<infoitem key="UD_rsMembers" value="name:USER_ID;datatype:string,name:USER_PW;datatype:string,name:NAME;datatype:string,name:PGC_STATUS;datatype:string,name:ROLE;datatype:string,name:update_date;datatype:date,name:pw1;datatype:string,name:pw2;datatype:string,name:active;datatype:string,name:new_user_id1;datatype:string,name:new_user_id2;datatype:string,name:old_user_id;datatype:string" />
+	<infoitem key="UD_rsFieldDuty" value="name:date;datatype:date,name:fm;datatype:string,name:afm1;datatype:string,name:afm2;datatype:string,name:afm3;datatype:string,name:fm_sub;datatype:string,name:afm1_sub;datatype:string,name:afm2_sub;datatype:string,name:afm3_sub;datatype:string,name:session;datatype:int,name:modified_by;datatype:string,name:modified_date;datatype:datetime,name:delete_record;datatype:string,name:email_date;datatype:real,name:cfig;datatype:string,name:tp1;datatype:string,name:tp2;datatype:string" />
+	<infoitem key="UD_rsMemberRatings" value="name:rating_id;datatype:int,name:pilot_name;datatype:string,name:pgc_rating;datatype:string,name:delete_record;datatype:string" />
+</info>

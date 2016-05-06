@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPgcPilots" value="name:pilot_name;datatype:string,name:fly_status;datatype:string" />
+	<infoitem key="UD_rsSignoffTypes" value="name:signoffID;datatype:int,name:description;datatype:string,name:target_group;datatype:string,name:expires;datatype:string,name:duration_days;datatype:int,name:eom_expiry;datatype:string,name:member_updates;datatype:string,name:yearly_reset;datatype:string,name:group_id;datatype:string,name:default_signoff_date;datatype:date,name:default_expire_date;datatype:date,name:calc_expire_date;datatype:string,name:active;datatype:string,name:last_update_date;datatype:date,name:last_update_id;datatype:string,name:delete_record;datatype:string,name:sort_order;datatype:real" />
+	<infoitem key="UD_rsInstructors" value="name:instructorID;datatype:int,name:Name;datatype:string" />
+	<infoitem key="UD_rsPilotSignoffs" value="name:signoffID;datatype:int,name:pilot_ID;datatype:int,name:pilot_name;datatype:string,name:signoff_type;datatype:string,name:signoff_date;datatype:date,name:instructor;datatype:string,name:expire_date;datatype:date,name:status;datatype:string,name:delete_record;datatype:string" />
+</info>

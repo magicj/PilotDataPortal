@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsFieldDuty" value="name:date;datatype:date,name:fm;datatype:string,name:afm1;datatype:string,name:afm2;datatype:string,name:afm3;datatype:string,name:session;datatype:int" />
+</info>

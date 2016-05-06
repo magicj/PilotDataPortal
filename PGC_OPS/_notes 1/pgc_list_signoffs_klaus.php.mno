@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsInstructors" value="name:Name;datatype:string" />
+	<infoitem key="UD_rsPilots" value="name:description;datatype:string" />
+	<infoitem key="UD_rsSignoffs" value="name:signoffID;datatype:int,name:pilot_ID;datatype:int,name:pilot_name;datatype:string,name:signoff_type;datatype:string,name:signoff_date;datatype:date,name:instructor;datatype:string,name:expire_date;datatype:date,name:status;datatype:string,name:delete_record;datatype:string,name:USER_ID;datatype:string,name:USER_PW;datatype:string,name:NAME;datatype:string,name:PGC_STATUS;datatype:string,name:ROLE;datatype:string,name:update_date;datatype:date,name:pw1;datatype:string,name:pw2;datatype:string,name:active;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_planes" value="name:id;datatype:int,name:glider;datatype:string,name:sid;datatype:int,name:pid;datatype:int,name:share;datatype:int" />
+	<infoitem key="UD_span" value="name:span;datatype:real" />
+</info>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Count(pilotid);datatype:int" />
+	<infoitem key="UD_CountFlights" value="name:Count(pilotid);datatype:int" />
+	<infoitem key="UD_CountPilots" value="name:Count(Distinct pilotid);datatype:int" />
+	<infoitem key="UD_CountGliders" value="name:Count(Distinct gliderid);datatype:int" />
+	<infoitem key="UD_CountNorth" value="name:Count(pilotid);datatype:int" />
+	<infoitem key="UD_CountSouth" value="name:Count(pilotid);datatype:int" />
+	<infoitem key="UD_CountTotal" value="name:Count(pilotid);datatype:int" />
+</info>
